@@ -1,0 +1,14 @@
+C:\Users\a.razi\source\repos\AnimalHierarchy\AnimalHierarchy\bin\Debug\net8.0\AnimalHierarchy.exe
+C:\Users\a.razi\source\repos\AnimalHierarchy\AnimalHierarchy\bin\Debug\net8.0\AnimalHierarchy.deps.json
+C:\Users\a.razi\source\repos\AnimalHierarchy\AnimalHierarchy\bin\Debug\net8.0\AnimalHierarchy.runtimeconfig.json
+C:\Users\a.razi\source\repos\AnimalHierarchy\AnimalHierarchy\bin\Debug\net8.0\AnimalHierarchy.dll
+C:\Users\a.razi\source\repos\AnimalHierarchy\AnimalHierarchy\bin\Debug\net8.0\AnimalHierarchy.pdb
+C:\Users\a.razi\source\repos\AnimalHierarchy\AnimalHierarchy\obj\Debug\net8.0\AnimalHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.razi\source\repos\AnimalHierarchy\AnimalHierarchy\obj\Debug\net8.0\AnimalHierarchy.AssemblyInfoInputs.cache
+C:\Users\a.razi\source\repos\AnimalHierarchy\AnimalHierarchy\obj\Debug\net8.0\AnimalHierarchy.AssemblyInfo.cs
+C:\Users\a.razi\source\repos\AnimalHierarchy\AnimalHierarchy\obj\Debug\net8.0\AnimalHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\a.razi\source\repos\AnimalHierarchy\AnimalHierarchy\obj\Debug\net8.0\AnimalHierarchy.dll
+C:\Users\a.razi\source\repos\AnimalHierarchy\AnimalHierarchy\obj\Debug\net8.0\refint\AnimalHierarchy.dll
+C:\Users\a.razi\source\repos\AnimalHierarchy\AnimalHierarchy\obj\Debug\net8.0\AnimalHierarchy.pdb
+C:\Users\a.razi\source\repos\AnimalHierarchy\AnimalHierarchy\obj\Debug\net8.0\AnimalHierarchy.genruntimeconfig.cache
+C:\Users\a.razi\source\repos\AnimalHierarchy\AnimalHierarchy\obj\Debug\net8.0\ref\AnimalHierarchy.dll
